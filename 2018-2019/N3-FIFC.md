@@ -1,13 +1,18 @@
 
-# Équipe 1 : Nom du projet
-Description du projet 
+# Équipe 1 : Light on
+
+Jeu de plateau représentant une pièce en deux dimensions. Le joueur dispose de lampes qui éclairent horizontalement et verticalement. Le but est d'éclairer toute la pièce avec le nombre de lampes mis à disposition. Les dispositions de la pièce et le nombre de lampes disponibles changent à chaque niveau.
 
 ## Équipe
-* Prénom Nom
+* Coline Praca
+* Elric Finot
+* Baptiste Darroman 
+* Lucas Breviere 
+* Lucas Dogimont 
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/darromab/Triviale_poursuite.git
 
 
 # Équipe 2 : Nom du projet
@@ -22,14 +27,18 @@ Description du projet
 
 
 # Équipe 3 : Nom du projet
-Description du projet 
+Le méga jeu de l'oie. Notre projet consiste à créer un jeu sur le principe du jeu de l'oie mais avec quelques variantes que nous avons intégré afin de complexifier le projet et le rendre un peu plus ludique avec des minis-jeux, des bonus, des malus et des oies. Le premier à la case 63 à gagné ! 
 
 ## Équipe
-* Prénom Nom
+* Pierre Rebeilleau
+* Mattéo Fouant
+* Samuel Outtier 
+* Lietar Théo
+* Leclercq Gauthier
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/rebeillp/ProjetAgileS3.git
 
 
 # Équipe 4 : Nom du projet
@@ -252,14 +261,18 @@ Le jeu du Mastermind classique mais avec des fonctionnalitées supplémentaires.
 * git : https://git-iut.univ-lille1.fr/souvantd/ProjetAgileE20.git
 
 
-# Équipe 21 : Nom du projet
-Description du projet 
+# Équipe 21 : Monopol'IUT
+Création du jeu monopoly customisé IUT Lille
 
 ## Équipe
-* Prénom Nom
+* Quentin Horgnies
+* Sami Lejeune
+* Theo Canonne
+* Valentin Genart
+* Perrot Ismérie
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/canonnet/Agile-N3.git
 
 
